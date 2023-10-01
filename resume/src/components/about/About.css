@@ -1,0 +1,9 @@
+.about {
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+    flex-direction: column;
+}
+.details {
+    padding: 32px;
+}

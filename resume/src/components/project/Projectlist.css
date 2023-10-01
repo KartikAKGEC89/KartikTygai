@@ -1,0 +1,32 @@
+.card {
+    border: 1px;
+    border-radius: 1px;
+    margin: 10px;
+    position: relative;
+}
+
+.card--image {
+    width: 250px;
+    height: 235px;
+    top: 521px;
+    left: 30px;
+    border-radius: 9px
+}
+
+.card--stats {
+    padding: 10px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.gray {
+    color: gray;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.card--image:hover {
+transform: translateY(-5%);
+}
