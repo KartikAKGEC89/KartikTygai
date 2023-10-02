@@ -34,8 +34,8 @@
     }
 }
 .item {
-    height: 50px;
-    font-size: 30px;
+    height: 60px;
+    font-size: 25px;
     overflow: hidden;
     color: rgb(59, 225, 44);
     display: flex;
